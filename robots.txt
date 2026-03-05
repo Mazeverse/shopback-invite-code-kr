@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shopback-invite-code.vercel.app/sitemap.xml
+Sitemap: https://shopback-invite-code-kr.vercel.app/sitemap.xml
