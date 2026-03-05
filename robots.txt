@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://shopback-invite-code.vercel.app/sitemap.xml
